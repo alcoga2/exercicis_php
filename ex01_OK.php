@@ -3,7 +3,7 @@ echo 'Hola';
 echo 'Hola', ' ', 'mon';
 echo '<p>Text</p>';
 //--------------------------------------------------------------
-$x = 'BABY';    // Se tenia que declarar x (Warning 1)
+$x = 'BABY';    // Se tenia qdvefrsvcfsue declarar x (Warning 1)
 $dades = 'Datancios'; // Se tenia que declarar dades (Warning 2)
 //--------------------------------------------------------------
 print 'Hola'; //Retorna 1
